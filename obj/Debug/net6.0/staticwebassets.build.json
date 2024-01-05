@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pfgbpopkUR6f4QSmECtF9YEF6kD4yU5oZBF+yhHXKV0=",
+  "Source": "SamlSample",
+  "BasePath": "_content/SamlSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
